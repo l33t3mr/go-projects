@@ -1,5 +1,7 @@
 # go-projects
 short-clips: a small backend project to play around with GORM and GIN, improve GoLang skills. 
+
+
 TODO: 
     [] Document DB Design
     [] Document API with Swagger
